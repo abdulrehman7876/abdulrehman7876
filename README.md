@@ -26,7 +26,7 @@ I love transforming ideas into clean UI with smooth user experiences ✨
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,cpp,vscode,python,adobeillustrator,figma,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,cpp,vscode,python,illustrator,photoshop,figma,mysql" />
 </p>
 
 ---
