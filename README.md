@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Abdul Rehman</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Front-End+Developer;Software+Engineering+Student;React+%7C+Tailwind+%7C+JavaScript;Open+to+WorkInternship+Opportunities" />
