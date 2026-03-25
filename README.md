@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-🎓 **Software Engineering student** with a strong passion for **Web Development**  
+🎓 **Undergraduate Software Engineering** with a strong passion for **Web Development**  
 💻 I enjoy building **modern, responsive, and performance-focused web apps**  
 🌱 Currently sharpening my skills in **React, Tailwind CSS, and JavaScript**  
 🎯 Actively looking for **Front-End / Web Development Internship opportunities**
